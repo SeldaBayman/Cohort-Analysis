@@ -5,12 +5,24 @@ Firstly we want to understand deeply what is meaning of Cohort Analysis?
 Cohort Analysis
 Cohort analysis is the analysis of the behavior of a particular group of customers over time. Cohorts are unchanging groups, e.g., no new customers join a cohort once formed, and customers cannot move from one cohort to another. The most common type of cohort is the group of people who became customers in a particular time frame, e.g., the second week of the month of January, or the fourth quarter of the year. Also known as “static pool analysis,” cohort analysis looks at how these specific, fixed customer groups behave over time and how they move along the curve of the customer lifecycle.
 
+![cohort_1](https://github.com/user-attachments/assets/d67def40-441f-4b67-a47f-12f85257c30b)
+
 Cohort Analysis Example - Optimove
 Customer LTV Excel Calculator Template
 How do Marketers use Cohort Analysis?
 Cohort analysis is useful to identify trends within customer behavior that may be hidden when looking at more general analytics data. For example, overall analytics data may indicate an increasing number of monthly purchases, a very positive sign for the business. However, cohort analysis can reveal that, in fact, the higher overall percentage is due to many first-time buyers, while cohorts of older customers are actually returning to make purchases much less frequently than in the past. Thus, by following the behavior of particular cohorts over time, a more accurate view of business performance is possible.
 
+
+![cohort_2](https://github.com/user-attachments/assets/4780c5de-e753-463c-9449-0acb80770b90)
+
+
 Likewise, when the company experiences a “bad month,” it is critical to understand if the unexpected performance drop was due to a market-wide factor (e.g., a quiet summer month) or to a specific problem that might be identified and adjusted. For example, if it is discovered that most new customers in a particular month spent much less than the customers acquired in previous months, it would be wise to examine any changes in acquisition strategy (e.g., traffic sources) and identify under-performers.
+
+
+![cohort_3](https://github.com/user-attachments/assets/5f363aee-548d-4e53-9a02-41710385b84d)
+
+
+![cohort_4](https://github.com/user-attachments/assets/645ad8a6-9871-42f2-bf75-913c5376b24e)
 
 
 Advanced Cohort Analysis
